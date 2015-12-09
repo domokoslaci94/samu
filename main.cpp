@@ -64,12 +64,12 @@ int main ( int argc, char **argv )
 
   std::string test[] =
   {
-    "A rare black squirrel has become a regular visitor to a suburban garden",
-    "This is a car",
-    "This car is mine",
-    "I have a little car",
+    "This is a ball",
+    "The ball is red",
+    "I have a ball",
     "The sky is blue",
-    "The little brown bear has eaten all of the honey",
+    "The grass is green",
+    "I am Samu",
     "I love Samu"
   };
 
