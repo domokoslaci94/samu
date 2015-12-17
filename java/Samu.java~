@@ -17,6 +17,7 @@ public class Samu
     caregiver_name_.add ("Matyi");
     caregiver_name_.add ("Nandi");
     caregiver_name_.add ("Greta");
+    caregiver_name_.add ("Laci");
   }
 
   public void destroy ()
