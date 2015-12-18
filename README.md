@@ -43,3 +43,7 @@ The main purpose of this project is to allow the evaluation and verification of 
 9. [Amminadab](https://github.com/nbatfai/amminadab)
 *"The son of Ram is Amminadab."* In project called Amminadab we can significantly improve Samu's learning by using the Liv-Zempel-Welch dictionary tree to narrow the scope of selecting Q-actions.
 
+
+## Java
+
+A java átíratot Domokos László készítette, Vécsi Ádám segítségével.
